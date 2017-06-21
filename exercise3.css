@@ -5,13 +5,15 @@
 .product-image {
   float: left;
 
-  /*padding: 10px;*/
+  padding: 10px;
+
 }
 .product-details {
   float: left;
   color: #FFFFFF;
 
-  /*padding-left: 5px;*/
+  padding-left: 5px;
+
 }
 
 .product-description {
@@ -19,5 +21,7 @@
   background-color: #7DADEA;
   color: #FFFFFF;
 
-  /*clear: left;*/
+  /*display: inline-block;*/
+  clear: left;
+
 }

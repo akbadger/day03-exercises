@@ -1,8 +1,13 @@
+body {
+  padding-top: 100px;
+}
+
+
 button {
   float: left;
   margin: 5px;
 }
 
-/*.content {
+.content {
   clear: left;
-}*/
+}
